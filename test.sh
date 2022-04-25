@@ -1,3 +1,3 @@
 123
 1234
-oihwergoijnvwrnik
+Second conflict comment oihwergoijnvwrnik
